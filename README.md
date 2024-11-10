@@ -21,8 +21,6 @@ This project provides a comprehensive tool for securing sensitive information th
 - [Project Structure](#project-structure)
 - [Packages Used](#packages-used)
 - [Functionality and Algorithms](#functionality-and-algorithms)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -116,10 +114,3 @@ To ensure traceability and accountability, the project logs all security operati
 - **Encryption and Decryption**: Records details of encryption and decryption operations, including the type of encryption used and timestamp.
 - **Data Embedding and Extraction**: Logs data hiding and extraction activities, specifying image files used and operation status.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
