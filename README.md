@@ -31,3 +31,19 @@ This project provides a comprehensive tool for securing sensitive information th
    ```bash
    git clone https://github.com/yourusername/Data-Security-using-Cryptography-and-Steganography.git
    cd Data-Security-using-Cryptography-and-Steganography
+
+2. Install the required packages :
+    ```bash
+    pip install -r requirements.txt
+
+## Usage
+
+Run the main script:
+```bash
+python main.py
+
+## Project Structure 
+
+
+
+    
