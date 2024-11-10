@@ -18,7 +18,6 @@ This project provides a comprehensive tool for securing sensitive information th
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Packages Used](#packages-used)
 - [Functionality and Algorithms](#functionality-and-algorithms)
